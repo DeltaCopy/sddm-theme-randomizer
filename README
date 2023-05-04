@@ -1,4 +1,4 @@
-## SDDM theme randomizer
+SDDM theme randomizer
 A shell script to randomly select an SDDM theme from /usr/share/sddm/themes.
 
 This script needs to be called from /usr/share/sddm/scripts/Xsetup so just add the full path to where this script is in there.
